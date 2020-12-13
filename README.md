@@ -11,10 +11,13 @@
 
 3. Week 7 Projects
    - (1) Perceptron Learning Algorithm
+         
          - This project relates to implementing the PLA for linearly separable dataset.
    - (2) Linear Regression
+         
          - This project relates to working on the linear regression with multiple features using gradient descent.
    - (3) Classification 
+         
          - This project relates to working on the support vector classifiers to learn a classification model for a chessboard
          
 4. Week 9 Project - Constraint Satisfaction Problems
