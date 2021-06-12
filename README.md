@@ -1,4 +1,4 @@
-# Columbia University
+# CSMM101X - Artificial Intelligence
  This repository is included my python projects which I studied in Artificial Intelligence for MicroMaster at Columbia University.
  
  Project Explanation of Artificial Intelligence Course
