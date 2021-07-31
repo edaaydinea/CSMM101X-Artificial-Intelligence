@@ -1,3 +1,6 @@
+Week 2 Project: Search Algorithms
+=================================
+
 ### **INSTRUCTIONS**
 
 In this assignment you will create an agent to solve the 8**-puzzle** game. You may visit **[mypuzzle.org/sliding](http://mypuzzle.org/sliding)** for a refresher of the rules of the game. You will implement and compare several search algorithms and collect some statistics related to their performances. Please read all sections of the instructions carefully:
