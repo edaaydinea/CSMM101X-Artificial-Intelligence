@@ -1,3 +1,6 @@
+Week 7 Project: Machine Learning
+================================
+
 ### **INSTRUCTIONS**
 
 There are three parts to this assignment. Please read all sections of the instructions carefully.
